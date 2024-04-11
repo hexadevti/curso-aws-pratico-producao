@@ -1,11 +1,11 @@
 NODE_ENV=production
 INSTANCE=production
 
-HOST=0.0.0.0
+HOST=18.117.153.125
 PORT=3001
 
-MYSQL_HOST=
+MYSQL_HOST=db-luciano.cr4yay2i8w5m.us-east-2.rds.amazonaws.com
 MYSQL_PORT=3306
-MYSQL_USER=
-MYSQL_PASSWORD=
-MYSQL_DATABASE=
+MYSQL_USER=admin
+MYSQL_PASSWORD=adminadmin
+MYSQL_DATABASE=table-teste
