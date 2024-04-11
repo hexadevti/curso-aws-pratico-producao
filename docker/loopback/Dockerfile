@@ -1,5 +1,5 @@
 # our base image
-FROM node:14
+FROM node:20
 
 # specify the port number the container should expose
 EXPOSE 3001
